@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695103503048",
+    "project_id": "flutter-project-61491",
+    "storage_bucket": "flutter-project-61491.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695103503048:android:384e3b30f11473961683fd",
+        "android_client_info": {
+          "package_name": "com.example.admin_panel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0-fbH4N5pT-e-nmahlV3pmdG3F74mM1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695103503048:android:f3450fc6bad269431683fd",
+        "android_client_info": {
+          "package_name": "com.example.pet_care1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0-fbH4N5pT-e-nmahlV3pmdG3F74mM1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
