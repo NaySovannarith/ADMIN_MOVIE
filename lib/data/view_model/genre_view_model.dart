@@ -1,0 +1,17 @@
+final List<String> availableGenres = [
+  'Action',
+  'Adventure',
+  'Animation',
+  'Comedy',
+  'Crime',
+  'Documentary',
+  'Drama',
+  'Family',
+  'Fantasy',
+  'Horror',
+  'Romance',
+  'Sci-Fi',
+  'Thriller',
+  'War',
+  'Western',
+];
